@@ -2,8 +2,8 @@ title: Olga Babeeva CV
 author: Olga Babeeva
 description: >-
   full stack engineer (80% java, 20% necessity); purposeful about doing good
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: https://olgababeeva.github.io/
 
 # Build settings
 theme: no-style-please
