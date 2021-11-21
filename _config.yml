@@ -11,6 +11,9 @@ theme_config:
   show_description: true
   appearance: light
 
+sass:
+  style: :compressed
+
 favicon: "olive.ico"
 # Exclude from processing.
 # The following items will not be processed, by default.
