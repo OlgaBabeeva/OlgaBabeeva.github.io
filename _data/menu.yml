@@ -1,0 +1,38 @@
+entries:
+  - title: work
+    tag: h3
+    entries:
+      - title: "'19—now: <a href='https://wise.com'><strike>Transfer</strike>Wise</a> 🇪🇪"
+        tag: h4
+        entries:
+          - title: "fast auditable compliant reliable sanctions name matching"
+          - title: "operational tooling; review & contact automation"
+
+      - title: "'17—'19: <a href='https://www.linkedin.com/company/onemarketdata/'>OneMarketData</a> + <a href='https://www.credit-suisse.com/uk/en.html'>Credit Suisse</a> | 🇷🇺 + 🇬🇧"
+        tag: h4
+        entries:
+          - title: tools for trade surveillance in <a href='https://www.onetick.com/'>proprietary programming language</a>
+          - title: + helping client on-site
+
+      - title: "16—'17 <a href='https://www.at-consulting.ru/'>AT Consulting</a> 🇷🇺"
+        tag: h4
+        entries:
+          - title: maintenance and refinement of <a href='https://51gosuslugi.ru/rpeu/'>public services system</a>
+
+  - title: education
+    tag: h3
+    entries:
+      - title: <a href='https://www.codecademy.com/profiles/bytePlayer62775/certificates/af00e5032d0a68cc84879983f5d8333b'>React</a> | algorithms <a href='https://www.coursera.org/learn/algorithms-part1/'>I</a> & <a href='https://www.coursera.org/learn/algorithms-part2'>II</a> | <a href='https://www.coursera.org/specializations/scala'>funprog in Scala</a> | <a href='https://www.coursera.org/account/accomplishments/specialization/certificate/WMD4G99QH8AE'>deep&nbsp;learning</a>
+      - title: "'11—'15 astronomy, Saint Petersburg State University 🌌"
+
+  - title: misc
+    tag: h4
+    entries:
+      - title: "'19—'20 <a href='https://www.sparkwave.tech/'>SparkWave</a> 🌎"
+        entries:
+          - title: part-time <a href='https://answers.guidedtrack.com/user/olga/answers'>technical support</a> for <a href='http://guidedtrack.com/'>GuidedTrack</a> — programming language for surveys, quizzes, and self-help applications
+            tag: small
+      - title: reading
+        entries:
+          - title: designing data-intensive applications, working in public, site reliability engineering
+            tag: small

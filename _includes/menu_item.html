@@ -1,0 +1,15 @@
+<ul>
+    {%-for item in include.collection-%}
+        <li>
+            {%- if item.tag -%}
+                <{{ item.tag }}>{{ item.title }}</{{ item.tag }}>
+            {%- else -%}
+                {{ item.title }}
+            {%- endif -%}
+        </li>
+
+        {%-if item.entries-%}
+            {%-include menu_item.html collection=item.entries-%}
+        {%-endif-%}
+    {%-endfor-%}
+</ul>
